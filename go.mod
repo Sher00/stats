@@ -1,5 +1,5 @@
-module github.com/Sher00/stats
+module github.com/Sher00/stats/v2
 
 go 1.16
 
-require github.com/Sher00/bank v0.0.0-20210405215147-10aecb52c2d2
+require github.com/Sher00/bank/v2 v2.0.0
